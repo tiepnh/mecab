@@ -18,4 +18,6 @@ Build new dictionary
 
 `make`
 
+`sudo make install`
+
 --> new dictionary will be created at /usr/local/lib/mecab/dic/ipadic-utf8-xxx
